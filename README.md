@@ -12,4 +12,4 @@ This project is currently under maintainment and construction. Soon will be publ
 # 📃 License
 
 This project is licensed under MIT License.
-I do not own any third party library, software or brand. VBA, VBE and Microsoft Office are registered to [Microsoft](http://microsoft.com/]).
+I do not own any third party library, software or brand. VBA, VBE and Microsoft Office are registered to [Microsoft](http://microsoft.com/).
